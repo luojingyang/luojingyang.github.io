@@ -108,12 +108,4 @@ disqusShortname = ''
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/hugo-sid"
-
-[[params.socialIcons]]
-name = "qq"
-url = "https://qq.com"
-
-[[params.socialIcons]]
-name = "Rss"
-url = "index.xml"
+url = "https://github.com/luojingyang"
