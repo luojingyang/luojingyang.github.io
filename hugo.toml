@@ -26,7 +26,7 @@ disqusShortname = ''
 # set markup.highlight.noClasses=false to enable code highlight
 [markup]
   [markup.highlight]
-    noClasses = false
+    noClasses = true
   [markup.goldmark.renderer]
     unsafe = true
 	[markup.tableOfContents]
