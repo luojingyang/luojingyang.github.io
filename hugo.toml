@@ -57,6 +57,11 @@ disqusShortname = ''
     url = '/posts/'
     weight = 20
   [[Languages.en-gb.menu.main]]
+    pageRef="plays"
+    name = '摸鱼'
+    url = '/plays/'
+    weight = 20
+  [[Languages.en-gb.menu.main]]
     pageRef="about"
     name = '关于'
     url = '/about/'
