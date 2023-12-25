@@ -90,7 +90,7 @@ disqusShortname = ''
   # 注意：如果找不到资源（化身图像），则不会渲染图像。没有显示任何错误。
   intro = "阿阳"
   name = "Sidharth R"
-  description = "欢迎来到我的个人网站！在这里，您可以了解我的兴趣、技能和经历。请随意浏览并留下您的宝贵意见。感谢您的光临！"
+  description = "欢迎来到我的个人网站！在这里，您可以了解我的兴趣、技能和经历。"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
