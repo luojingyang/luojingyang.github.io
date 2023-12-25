@@ -12,6 +12,7 @@
 
 {{- partial "head.html" . -}}
 
+<html style="overflow: hidden;">
 <body data-theme="{{ $defaultColor }}" class="notransition">
     {{- partial "scriptsBodyStart.html" . -}}
     {{- partial "header.html" . -}}
@@ -37,5 +38,7 @@
     {{- partial "footer.html" . -}}
     {{- partial "scriptsBodyEnd.html" . -}}
 </body>
+
+</html>
 
 </html>
