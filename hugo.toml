@@ -94,7 +94,7 @@ disqusShortname = ''
   avatar = "avatar.jpg"       # 头像
   # 注意：如果找不到资源（化身图像），则不会渲染图像。没有显示任何错误。
   intro = "阿阳"
-  name = "Sidharth R"
+  name = ""
   description = "欢迎来到我的个人网站！在这里，您可以了解我的兴趣、技能和经历。"
 
 # Allow to override webmanifest options
